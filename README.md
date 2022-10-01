@@ -1,5 +1,7 @@
-## Olá, eu sou a Larissa Giotti, estudande de front-end e UI/UX!
+##   <p>Olá, eu sou a Larissa Giotti, estudande de front-end e UI/UX!</p> 
+<img align="center" alt="Lari-Pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/979699499830231090/1025910508244697190/picasion.com_65e8acc8fce9d744a577a5173cc98ea1.gif">
 
+##
 <div align="center">
   <a href="https://github.com/larissagiotti">
   
@@ -15,7 +17,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/979699499830231090/1025910508387315744">
+
 </div>
 
 ##
