@@ -1,5 +1,4 @@
 ##   <p>Olá, eu sou a Larissa Giotti, estudande de front-end e UI/UX!</p> 
-<img align="center" alt="Lari-Pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/979699499830231090/1025910508244697190/picasion.com_65e8acc8fce9d744a577a5173cc98ea1.gif">
 
 ##
 <div align="center">
