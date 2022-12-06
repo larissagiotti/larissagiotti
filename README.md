@@ -14,6 +14,7 @@
   <img align="center" alt="Lari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lari-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Lari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="right" alt="Lari-pic" height="150" width="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/979699499830231090/1025910508244697190/picasion.com_65e8acc8fce9d744a577a5173cc98ea1.gif">
 </div>
 
